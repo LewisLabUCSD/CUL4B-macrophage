@@ -1,0 +1,10 @@
+,Upstream Regulator,Expr Log Ratio,Molecule Type,Predicted Activation State,Activation z-score,Flags,p-value of overlap,Target Molecules in Dataset,Mechanistic Network,sample,sig
+1,CSF, ,group,Inhibited,-3.162,bias,3.11e-07,"CSTA,CSTB,IL1B,NFKB1,PTPN2,SERPINB8,SERPINB9,TGM2,TNFAIP3,TRAF1", ,1hr_PROT_unique,True
+11,CD40LG, ,cytokine,Inhibited,-2.440,bias,4.15e-05,"CDK6,ICAM1,IL1B,MARCKS,NAMPT,NFKB1,PLEK,TANK,TNFAIP3,TRAF1",52 (5),1hr_PROT_unique,True
+30,RELA,-0.215,transcription regulator,Inhibited,-2.396,bias,0.00106,"FN1,FSCN1,ICAM1,IL1B,NAMPT,PLAU,PSMB9,PTPN6,TGM2,TMSB10/TMSB4X,TNFAIP3,TRAF1,VIM",48 (4),1hr_PROT_unique,True
+32,NSUN6, ,enzyme,Inhibited,-2.236,bias,0.00117,"CDKN2C,DAB2,FSCN1,MARCKS,TGM2", ,1hr_PROT_unique,True
+41,mir-21, ,microRNA,Activated,2.216,bias,0.0020800000000000003,"ARF4,CDK6,FN1,MYD88,TPM1", ,1hr_PROT_unique,True
+44,ATG5, ,other,Inhibited,-2.219,bias,0.00232,"C1QBP,EIF5A,GABARAP,PDCD5,TGM2", ,1hr_PROT_unique,True
+60,GLI1, ,transcription regulator,Inhibited,-2.189, ,0.00394,"ADK,AKT1,ATAD2,BID,CDK6,CNTRL,EFHD2,FHL1,IQGAP2,MSI2,NPEPL1,OGFRL1,PLAU,PSMB9,PTPN2,RBM8A,S100A4,S100A9,SCD", ,1hr_PROT_unique,True
+70,SMARCA4,0.089,transcription regulator,Inhibited,-2.840,bias,0.00536,"ABRACL,ATG9A,CFP,CLDND1,CP,FN1,GSTO1,GSTP1,ICAM1,IL1B,JUN,LPXN,MTRES1,PSMB9,SERPINB8,SERPINE2,TPM1,TREM2,VIM", ,1hr_PROT_unique,True
+143,ASPSCR1-TFE3, ,fusion gene/product,Inhibited,-2.449,bias,0.021,"ATP6V1D,CAST,EPS15L1,GPNMB,PACSIN2,PEPD", ,1hr_PROT_unique,True
