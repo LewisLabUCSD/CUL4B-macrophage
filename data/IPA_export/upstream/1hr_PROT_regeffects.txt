@@ -1,0 +1,16 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+ID	Consistency Score	Node Total	Regulator Total	Regulators	Target Total	Target Molecules in Dataset	Disease & Function Total	Diseases & Functions	Known Regulator-Disease/Function Relationship
+1	9.833	53	6	CD40LG,ETV6-RUNX1,mir-122,NSUN6,RELA,SMARCA4	36	ARHGAP18,BID,CDK6,CDKN2C,CFP,CLDND1,DAB2,FN1,FSCN1,GSTO1,GSTP1,ICAM1,IL1B,JUN,MAP2K1,MAPRE1,MARCKS,NAMPT,NFKB1,PAK1,PLAU,PLEK,PLIN3,PTPN6,S100A4,SERPINB6,SERPINE2,SF3B4,TANK,TGM2,TMSB10/TMSB4X,TNFAIP3,TPM1,VAV3,VIM,YARS1	11	Cell movement of leukocytes,Cell movement of lung cancer cell lines,Cell movement of myeloid cells,Cell viability of tumor cell lines,Formation of focal adhesions,Internalization by tumor cell lines,Invasion of tumor cell lines,Migration of breast cancer cell lines,Organization of cytoskeleton,Polarization of leukocytes,Viral Infection	18% (12/66)
+2	3.674	10	1	MYC	6	AKT1,BAG1,EIF4E,JUN,SAE1,SUMO3	3	Apoptosis of cervical cancer cell lines,Cell death of lymphoma cell lines,Cell viability of breast cancer cell lines	133% (4/3)
+3	3.402	11	2	CD40LG,NFkB (complex)	7	IL1B,MARCKS,NAMPT,NFKB1,PLEK,TANK,TNFAIP3	2	Cytotoxicity of cells,Infection by RNA virus	50% (2/4)
+4	2.646	11	2	mir-21,TNF	7	CDK6,FN1,IL1B,MYD88,S100A8,S100A9,TPM1	2	Fibrogenesis,Inflammatory response of cells	75% (3/4)
+5	-2.714	13	1	MYC	11	AKT1,BAG1,EIF4E,ENO1,IQGAP2,JUN,MYD88,SAE1,SUMO3,TMSB10/TMSB4X,XPO1	1	Cell death of tumor cell lines	100% (1/1)
+6	-3.780	9	1	MYC	7	AKT1,JUN,PLAU,RSAD2,SAE1,SUMO2,XPO1	1	Replication of Influenza A virus	100% (1/1)
+7	-4.000	11	1	RELA	9	FN1,FSCN1,IL1B,NAMPT,PLAU,PTPN6,TGM2,TMSB10/TMSB4X,TNFAIP3	1	Cell proliferation of tumor cell lines	100% (1/1)
+8	-5.307	8	1	MYC	6	AKT1,BAG1,EIF4E,ENO1,JUN,PLAU	1	Colony formation of cells	100% (1/1)
+9	-6.500	6	1	LDL	4	IL1B,IRAK4,NAMPT,SREBF2	1	Cell viability of tumor cell lines	100% (1/1)
+10	-8.538	12	1	RELA	10	FN1,ICAM1,IL1B,NAMPT,PLAU,PTPN6,TGM2,TMSB10/TMSB4X,TNFAIP3,TRAF1	1	Necrosis	100% (1/1)
+11	-11.023	8	1	CSF	6	IL1B,NFKB1,PTPN2,TGM2,TNFAIP3,TRAF1	1	Apoptosis of tumor cell lines	0% (0/1)
+12	-14.000	6	1	GLI1	4	AKT1,BID,FHL1,PTPN2	1	Proliferation of lung cancer cell lines	100% (1/1)
+13	-19.677	7	1	ATG5	5	C1QBP,EIF5A,GABARAP,PDCD5,TGM2	1	Apoptosis	100% (1/1)

@@ -1,0 +1,16 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+ID	Consistency Score	Node Total	Regulator Total	Regulators	Target Total	Target Molecules in Dataset	Disease & Function Total	Diseases & Functions	Known Regulator-Disease/Function Relationship
+1	66.939	127	45	BTK,CGAS,CUL4B,EIF2AK2,FOXC1,IFN Beta,IFNA1/IFNA13,IFNA2,IFNB1,IFNL1,IFNL4,IL12 (complex),IL1RN,IL6,Interferon alpha,IRF1,IRF3,IRGM,JAK,LDL,MAP2K1/2,MAPK1,MET,miR-182-5p (and other miRNAs w/seed UUGGCAA),MYC,NFkB (complex),NONO,PAF1,PGR,PI3K (family),PRKCA,PRL,RARB,RC3H1,RNY3,SGPL1,SNAI1,SOCS1,STAT3,STING1,TGFB1,TLR7,TLR9,TNF,WWTR1	72	ABCB1,ALB,ALCAM,APOB,APOBEC3C,APOBEC3F,APOBEC3G,APOE,ARHGDIB,ATP6AP2,BAX,C3,CASP1,CD36,CD44,CD47,COL1A1,COL1A2,CSTA,CTSC,CTSD,CTSS,DBI,DDX58,ERAP1,EZR,FDPS,HLA-B,HLA-F,HSPB1,IFI16,IFIH1,IFIT1,ISG15,LGALS1,LPL,MMP2,MMP9,MX1,MX2,NAMPT,NFKB2,OAS1,OAS3,OASL,PARP10,PARP12,PEBP1,PFDN1,PFKP,PLAU,PLG,PML,PNPT1,PSEN1,PTPN2,RELA,RSAD2,S100A4,SERPINE2,SOD1,SPRY2,STAT2,SUMO3,TAP1,TAP2,TGM2,TRIM25,TRIM56,UBA7,UBE2L6,VIM	10	Generation of reactive oxygen species,Neuromuscular disease with neuropathy,Production of virus,Progressive motor neuron disease,Progressive neuromuscular disease,Proteolysis,Replication of Flaviviridae,Replication of Herpesviridae,Replication of vesicular stomatitis virus,Replication of viral replicon	17% (78/450)
+2	61.330	94	22	FOXC1,GAPDH,IFN Beta,IFNA1/IFNA13,IFNA2,IFNB1,IFNL1,IFNL4,IL1RN,Interferon alpha,IRF3,IRGM,JAK,LDL,MAPK1,NONO,NR3C1,PRL,RNY3,STING1,TLR9,WWTR1	61	A2M,APOBEC3F,APOBEC3G,APOE,ARRB1,BAG1,BAX,C3,CASP1,CCL4,CD36,CD44,CHMP5,COL1A1,CTSS,DDX58,EIF2AK2,FN1,HLA-B,HLA-F,IFI16,IFIH1,IFIT1,IGFBP3,ISG15,JUN,LGALS9,MX1,MX2,NAMPT,NFKB1,NFKB2,NLRP3,NT5E,OAS1,OAS2,OAS3,OASL,PARP10,PARP12,PEA15,PML,PNPT1,PRKCI,PSEN1,RELA,ROCK1,RSAD2,RTN4,SPRY2,STAT1,STAT2,STAT6,TAP1,TAP2,TGFB1,TRAF1,TRIM25,UBA7,UBE2L6,VIM	11	Binding of blood cells,Generation of reactive oxygen species,Necrosis of epithelial tissue,Neuromuscular disease with neuropathy,Production of virus,Progressive motor neuron disease,Progressive neuromuscular disease,Replication of Flaviviridae,Replication of Herpesviridae,Replication of vesicular stomatitis virus,Replication of viral replicon	21% (50/242)
+3	4.243	13	3	MFAP4,NEUROG1,ZEB1	8	C3,CFH,FN1,PLAU,RELA,SERPINF1,TGFB1,THBS1	2	Adhesion of blood cells,Binding of protein binding site	0% (0/6)
+4	3.000	7	1	ZEB1	4	FN1,NRP1,PLAU,THBS1	2	Adhesion of blood cells,Proliferation of endothelial cells	0% (0/2)
+5	-3.780	9	1	WWTR1	7	CD44,DDX58,FN1,IFIH1,MX1,OAS1,STAT1	1	Apoptosis	100% (1/1)
+6	-4.082	8	1	COL18A1	6	F10,FN1,PLAU,RELA,STAT1,THBS1	1	Adhesion of blood cells	0% (0/1)
+7	-4.491	8	1	WWTR1	6	CD44,DDX58,FN1,IFIH1,STAT1,TK1	1	Cell death of tumor cell lines	100% (1/1)
+8	-6.882	21	1	NR3C1	19	BAG1,BAG3,CEBPB,COL1A1,DYNLL1,FN1,JUND,NFKB1,NFKB2,PDCD4,PEA15,PRKCI,PSEN1,PTRH2,RELA,RTN4,STAT6,TRAF1,YWHAZ	1	Apoptosis of tumor cell lines	100% (1/1)
+9	-8.083	5	1	RARA	3	CD14,LGALS1,RSAD2	1	Production of virus	0% (0/1)
+10	-9.899	4	1	TRAP1	2	COX5B,SOD1	1	Generation of reactive oxygen species	100% (1/1)
+11	-14.500	6	1	MFAP4	4	COL1A1,FN1,RELA,TGFB1	1	Cell proliferation of tumor cell lines	0% (0/1)
+12	-14.699	16	1	HSF1	14	ABCB1,BAG3,BAX,CBX3,DNMT1,EFEMP1,FBLN1,HMOX1,HSPB1,NASP,NFATC2,SMC1A,STAT6,STIP1	1	Cell death of tumor cell lines	100% (1/1)
+13	-17.146	8	1	IL6	6	ALB,C3,CD82,IL1RN,NFKB1,PLAU	1	Synthesis of lipid	100% (1/1)

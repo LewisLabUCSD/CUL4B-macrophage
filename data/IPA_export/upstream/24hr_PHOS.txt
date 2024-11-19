@@ -1,0 +1,55 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+Upstream Regulator	Phospho Log Ratio	Molecule Type	Predicted Activation State	Activation z-score	Flags	p-value of overlap	Target Molecules in Dataset	Mechanistic Network
+P-TEFb	 	complex	Activated	2.840	bias	6.96E-05	CCAR2,EDC4,EIF4ENIF1,HNRNPUL1,NPM1,PUM1,PXN,RBMX,SEC16A,SF1,SF3B1,SUPT5H,TNKS1BP1,TRIM28,ZNF318	 
+BSG	1.451	transporter	 	1.961	 	1.70E-04	ARHGAP45,CDK1,CEP170,DOCK2,H1-4,MYH10,NCOR1,PRKCB,SEPTIN2,TRA2B	 
+F2	 	peptidase	Activated	2.597	bias	2.03E-04	ARHGEF1,HCLS1,HSPB1,INPP5D,PLEC,PRKAA1,PRKCD,PTK2B,PTPN12,SH3KBP1,VASP,ZYX	 
+Cyclin E	 	group	 	 	 	3.79E-04	NPM1,SMARCA4,SMARCC1	 
+SET	0.734	phosphatase	 	0.963	bias	5.56E-04	ATRX,CTR9,DYNC1LI1,HNRNPA1,HNRNPU,MAP1S,NPM1,TMPO	 
+CXCL12	 	cytokine	 	1.270	bias	5.04E-03	ARHGEF1,DOCK2,PTK2B,PXN,RPS6	 
+PRKCQ	 	kinase	 	 	 	6.21E-03	ARHGEF6,PTPN7	 
+PPME1	 	enzyme	 	1.000	bias	6.61E-03	ATRX,DYNC1LI1,SRSF9,TMPO	 
+SYK	 	kinase	 	1.132	bias	7.54E-03	CDK1,HCLS1,INPP5D,MTOR,PRKCD,PRRC2C,PTPN6	 
+CD79A	 	transmembrane receptor	 	1.348	bias	9.56E-03	CDK1,G3BP1,HCLS1,INPP5D,PRKCD,PRRC2C,PTPN6,VASP	 
+SH2D2A	 	other	 	 	 	1.21E-02	PTK2B,PXN	 
+PI3K (complex)	 	complex	Activated	2.219	bias	1.29E-02	PRKCD,PTK2B,PXN,RPS6,RPTOR	 
+BCR (complex)	 	complex	 	1.007	bias	1.39E-02	CDK1,HCLS1,INPP5D,PRKCD,PRRC2C,PTPN6,RPS6	 
+Cyclin B	 	group	 	 	 	1.95E-02	DNM1L,ITPR1	 
+FOLH1	 	peptidase	 	 	 	1.95E-02	MTOR,RPS6	 
+WRN	 	enzyme	 	 	 	1.95E-02	PRKCB,PRKCD	 
+CD40LG	 	cytokine	 	 	 	1.99E-02	PRKCB,PRKCD,RPS6	 
+CDK2	 	kinase	 	 	 	1.99E-02	NPM1,SMARCA4,SMARCC1	 
+TP53	 	transcription regulator	 	-1.871	 	2.64E-02	CDK1,NPM1,PRKAA1,PRKCB,RPS6	 
+GAST	 	other	 	 	 	2.83E-02	PXN,RPS6	 
+PPP2R1A	 	phosphatase	 	-1.067	bias	3.40E-02	HNRNPA1,HNRNPU,NPM1,TMPO	 
+p70 S6k	 	group	 	 	 	4.63E-02	RPS6	 
+Camk	 	complex	 	 	 	4.63E-02	RPS6	 
+PABIR1	 	other	 	 	 	4.63E-02	TRIM28	 
+UBLCP1	 	phosphatase	 	 	 	4.63E-02	PSMD2	 
+Cr3	 	complex	 	 	 	4.63E-02	PRKCD	 
+FCGR2B	 	transmembrane receptor	 	 	 	4.63E-02	INPP5D	 
+CDC25C	 	phosphatase	 	 	 	4.63E-02	CDK1	 
+CTNND1	 	other	 	 	 	4.63E-02	NPM1	 
+mir-27	 	microRNA	 	 	 	4.63E-02	CDK1	 
+miR-199a-3p (and other miRNAs w/seed CAGUAGU)	 	mature microRNA	 	 	 	4.63E-02	RPS6	 
+mir-199	 	microRNA	 	 	 	4.63E-02	RPS6	 
+HIF1A-AS1	 	other	 	 	 	4.63E-02	MTOR	 
+ASS1	 	enzyme	 	 	 	4.63E-02	CAD	 
+DDR1	 	kinase	 	 	 	4.63E-02	PTK2B	 
+BCL2	 	transporter	 	 	 	4.63E-02	ITPR1	 
+S100A8	 	other	 	 	 	4.63E-02	CDK1	 
+MGAT3	 	enzyme	 	 	 	4.63E-02	PRKCD	 
+ARHGEF28	 	other	 	 	 	4.63E-02	PXN	 
+MSH2	 	enzyme	 	 	 	4.63E-02	CDK1	 
+MKNK2	 	kinase	 	 	 	4.63E-02	HNRNPA1	 
+DPYSL3	 	enzyme	 	 	 	4.63E-02	VIM	 
+RB1	 	transcription regulator	 	 	 	4.63E-02	CDK1	 
+PIM3	 	kinase	 	 	 	4.63E-02	PSMD2	 
+PPM1A	 	phosphatase	 	 	 	4.63E-02	CDK9	 
+F2RL3	 	G-protein coupled receptor	 	 	 	4.63E-02	PTPN6	 
+DAP3	 	other	 	 	 	4.63E-02	DNM1L	 
+AKAP1	2.356	other	 	 	 	4.63E-02	DNM1L	 
+TXNIP	 	other	 	 	 	4.63E-02	MTOR	 
+ERK1/2	 	group	 	1.937	bias	4.77E-02	MED1,MTOR,PXN,RPTOR	 
+CHEK2	 	kinase	 	 	 	4.98E-02	CDK1,TRIM28	 
+DOCK4	 	other	 	 	 	4.98E-02	INPP5D,PTPN6	 

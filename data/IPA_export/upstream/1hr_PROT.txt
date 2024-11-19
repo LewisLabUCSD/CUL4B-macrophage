@@ -1,0 +1,319 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+Upstream Regulator	Expr Log Ratio	Molecule Type	Predicted Activation State	Activation z-score	Flags	p-value of overlap	Target Molecules in Dataset	Mechanistic Network
+mir-122	 	microRNA	Activated	3.865	bias	4.06E-10	CACYBP,GNPDA1,MAPRE1,NPEPPS,NUTF2,PLIN3,SERPINB6,SF3B4,SH3BGRL3,SH3GL1,TGM2,TPD52L2,VAV3,VIM,YARS1	 
+CSF	 	group	Inhibited	-3.162	bias	3.11E-07	CSTA,CSTB,IL1B,NFKB1,PTPN2,SERPINB8,SERPINB9,TGM2,TNFAIP3,TRAF1	 
+MMP12	 	peptidase	 	 	 	7.92E-07	ADK,FSCN1,MAPRE1,NPEPPS,PGM1,PSMB7,TBCA,TPM3,TPM4	 
+EGFR	 	kinase	 	-1.456	bias	5.96E-06	AKT1,ICAM1,JUN,MARCKS,PLAU,PPIA,PRKAR1A,PSMB3,PSMB7,PTPRE,TGM2,VIM	13 (2)
+IL15	 	cytokine	 	-1.349	bias	7.85E-06	AKT1,AKT2,EIF4E,ENO1,JUN,MAP2K1,MYD88,NFKB1,PGM1,PGM2,PSMB9,RPE	 
+NR3C1	-0.379	ligand-dependent nuclear receptor	 	-1.091	bias	9.66E-06	ACTN2,AKT1,AKT2,BAG1,CBR1,FN1,ICAM1,IL1B,MAPK7,MYD88,NAMPT,NFKB1,PAK1,PEA15,PRKAR1A,PRKCI,RIPK2,RRAGC,SERPINB9,SUMO2,TNFAIP3,TRAF1,UBE2K,WDR12	 
+OGA	 	enzyme	 	0.243	 	9.91E-06	BCL2L13,DAB2,DHCR7,FBLN1,FN1,FSCN1,JAK1,JUN,LPXN,PLAU,PLIN3,SERPINB9,SERPINE2,SREBF2,TRADD,USF2,VIM	 
+PACS1	 	other	 	0.000	 	1.44E-05	CDK6,CSTA,CSTB,NFKB1	 
+Lh	 	complex	 	 	 	1.45E-05	BAG1,CAP2,CSNK1A1,DAB2,DHCR7,MAP2K1,MAPRE2,PDXK,PI4K2A,PLIN3,PPIH,PRKAR1A,PTPRE,STK25,TNFAIP3,TPM1	 
+MYC	 	transcription regulator	Inhibited	-2.747	bias	1.72E-05	AKT1,BAG1,CNTRL,EIF4E,ENO1,GCLM,IFIT2,IQGAP2,JUN,MYD88,PLAU,PREP,RSAD2,SAE1,SERPINE2,SHMT1,SUMO2,SUMO3,TMSB10/TMSB4X,XPO1	 
+HSP90B1	0.122	other	 	-1.633	bias	3.89E-05	ARF1,ARF5,EIF5A,SNX12,SNX3,SSR3	 
+CD40LG	 	cytokine	Inhibited	-2.440	bias	4.15E-05	CDK6,ICAM1,IL1B,MARCKS,NAMPT,NFKB1,PLEK,TANK,TNFAIP3,TRAF1	52 (5)
+Interferon alpha	 	group	 	-0.139	bias	4.93E-05	BCL2L13,CGAS,DRAP1,EIF1,IFIT2,IRF8,MYD88,PARP12,PARVG,PSMB9,RSAD2,SAMD9,SERPINB1,SERPINB9,SREBF2,UBE2L6	 
+PTPN6	-0.670	phosphatase	 	-0.762	 	6.44E-05	CDK6,FN1,PTPN6,VIM	20 (3)
+miR-145-5p (and other miRNAs w/seed UCCAGUU)	 	mature microRNA	Activated	2.406	bias	8.19E-05	ABRACL,EIF4E,FLI1,FSCN1,SWAP70,TPM3	 
+TXN	-1.416	enzyme	 	1.980	 	1.16E-04	APOA1,ICAM1,IL1B,NFKB1,TXN	21 (3)
+PDCD4	-0.578	other	 	0.000	bias	1.86E-04	ARF4,IL1B,JUN,PLAU	 
+miR-182-5p (and other miRNAs w/seed UUGGCAA)	 	mature microRNA	 	0.130	bias	2.14E-04	FN1,NMI,RSAD2,SAMD9,SERPINE2	 
+FSH	 	complex	 	 	 	2.87E-04	BAG1,CAP2,CSNK1A1,DAB2,DHCR7,MAP2K1,MAPRE2,PDXK,PI4K2A,PLIN3,PPIH,PRKAR1A,PTPRE,STK25,TNFAIP3,TPM1	 
+HDAC6	 	transcription regulator	 	-0.555	bias	3.09E-04	ICAM1,JUN,MYD88,PLAU,VIM	 
+CUL4B	-0.269	other	Activated	2.000	bias	3.26E-04	GLO1,NME1,SOD1,TPM3	 
+SPI1	-0.426	transcription regulator	 	0.156	bias	3.85E-04	EPB41L2,IFIT2,IL1B,NCF4,PARP12,PSMB9,PTPN6,RSAD2,VIM	 
+miR-204-5p (and other miRNAs w/seed UCCCUUU)	 	mature microRNA	 	 	 	4.72E-04	CBFB,PTPN11	 
+PCGF2	 	transcription regulator	 	 	 	5.30E-04	FN1,NFKB1,USF2,VIM	 
+COL18A1	0.611	other	 	-1.912	bias	5.65E-04	CDKN2C,F10,FN1,ICAM1,JUN,PDCD5,PLAU	23 (3)
+TP63	 	transcription regulator	 	-0.318	bias	5.82E-04	AKT1,ATG9A,CAST,CDK6,CSTA,ENSA,FN1,GPNMB,IL1B,JUN,PLAU,S100A4,S100A8,TPM1,VIM	 
+RAB1B	-0.061	other	 	-1.408	bias	6.82E-04	ARF4,ARL1,JUN,NAPA,RRAGC	 
+FAT1	-0.242	other	 	 	 	7.78E-04	IL1B,JUN,PLAU	 
+NFkB (complex)	 	complex	Inhibited	-2.157	bias	9.61E-04	BLVRA,FABP5,ICAM1,IL1B,KYNU,LSP1,NAMPT,NFKB1,PLAU,PSMB9,SAR1A,TGM2,TNFAIP3,TRAF1	48 (4)
+IFNG	 	cytokine	 	-1.640	bias	1.04E-03	AIF1,CGAS,CP,FCER1G,ICAM1,IFIT2,IL1B,IRF8,MYD88,NMI,PARVG,PSMB9,RIPK2,RSAD2,SAMD9,SERPINB9,SREBF2,VIM	22 (2)
+RELA	-0.215	transcription regulator	Inhibited	-2.396	bias	1.06E-03	FN1,FSCN1,ICAM1,IL1B,NAMPT,PLAU,PSMB9,PTPN6,TGM2,TMSB10/TMSB4X,TNFAIP3,TRAF1,VIM	48 (4)
+CST5	 	other	 	0.535	bias	1.11E-03	ARF6,COPS7A,DDT,DR1,DRAP1,FHL1,IQGAP2,MAP1S,PPIC,PRDX1,PYGB,SRSF9,TXN,UCHL5,VIM	 
+NSUN6	 	enzyme	Inhibited	-2.236	bias	1.17E-03	CDKN2C,DAB2,FSCN1,MARCKS,TGM2	 
+TNF	 	cytokine	Inhibited	-2.167	bias	1.39E-03	BID,CYP27A1,DBI,EHD1,FN1,GCLM,GPX4,ICAM1,IL1B,JAK1,JUN,KYNU,NFKB1,PLAU,PSMB9,S100A8,S100A9,SERPINB1,SERPINB8,SERPINB9,TNFAIP3,TRAF1	48 (4)
+MAP3K3	 	kinase	 	 	 	1.39E-03	JUN,TNFAIP3	 
+HAVCR1	 	other	 	1.633	 	1.43E-03	APBB1IP,CDK6,FSCN1,JUN,NAMPT,NFKB1,NUDCD2,PSMB9	 
+MIEF2	 	other	 	 	 	1.48E-03	SCD,SREBF2,VIM	 
+MMP1	 	peptidase	 	0.000	bias	1.66E-03	JUN,MAP2K1,PLAU,S100A4	 
+HGF	 	growth factor	 	 	 	1.84E-03	AKT1,GBA,LSM1,PLAU,PTPN2,S100A9,SF3B4,TAGLN2	 
+EIF2AK2	-0.466	kinase	 	-1.353	bias	1.90E-03	AKT2,JUN,NMI,PARP12,TNFAIP3,UBE2L6	 
+mir-204	 	microRNA	 	 	 	1.94E-03	CBFB,IL1B,PTPN11	 
+mir-21	 	microRNA	Activated	2.216	bias	2.08E-03	ARF4,CDK6,FN1,MYD88,TPM1	 
+FAS	 	transmembrane receptor	 	-0.290	 	2.08E-03	BID,ICAM1,MAPK7,PLAU,TNFAIP3	21 (3)
+ECSIT	0.096	transcription regulator	 	-1.941	bias	2.25E-03	IL1B,NFKB1,TNFAIP3,TRAF1	19 (3)
+ATG5	 	other	Inhibited	-2.219	bias	2.32E-03	C1QBP,EIF5A,GABARAP,PDCD5,TGM2	 
+IL13	 	cytokine	 	-0.466	 	2.48E-03	BLVRA,EVL,FABP4,GPNMB,GPX4,IL1B,LTA4H,PDLIM2,RIPK2,SWAP70,TGM2	 
+mir-322	 	microRNA	 	 	 	2.48E-03	FN1,MAP2K1,VIM	 
+Pkg	 	group	 	 	 	2.75E-03	JUN,TXN	 
+FENDRR	 	other	 	 	 	2.75E-03	FN1,IL1B	 
+FDX2	 	transporter	 	 	 	2.75E-03	ACO1,IREB2	 
+AHCTF1	-0.013	transcription regulator	 	 	 	2.75E-03	NUTF2,RAN	 
+PDLIM1	-0.736	transcription regulator	 	 	 	2.75E-03	PDLIM1,VIM	 
+XRCC6	-0.273	enzyme	 	 	 	2.75E-03	APOA1,NFKB1	 
+miR-1285-3p (and other miRNAs w/seed CUGGGCA)	 	mature microRNA	 	 	 	2.75E-03	AKT2,VIM	 
+PLAU	0.746	peptidase	 	 	 	2.75E-03	ICAM1,VIM	 
+FDXR	0.062	enzyme	 	 	 	2.75E-03	ACO1,IREB2	 
+FOXF2	 	transcription regulator	 	 	 	2.75E-03	FN1,VIM	 
+IKBKE	 	kinase	Inhibited	-2.229	bias	2.84E-03	PGM1,PGM2,PSAT1,PYGL,RPE	 
+MEG3	 	other	 	 	 	3.11E-03	FN1,JUN,VIM	 
+ESR2	 	ligand-dependent nuclear receptor	 	0.816	bias	3.26E-03	AKT1,BID,FBLN1,FN1,GPNMB,GSTP1,VAV3	 
+GLI1	 	transcription regulator	Inhibited	-2.189	 	3.94E-03	ADK,AKT1,ATAD2,BID,CDK6,CNTRL,EFHD2,FHL1,IQGAP2,MSI2,NPEPL1,OGFRL1,PLAU,PSMB9,PTPN2,RBM8A,S100A4,S100A9,SCD	 
+TCR	 	complex	 	0.686	bias	4.07E-03	ENO1,GNPDA1,IFIT2,JUN,MDH1,MYD88,NFKB1,NME1,PA2G4,PRDX6,RSAD2,TNFAIP3	 
+Gsk3	 	group	 	-0.371	 	4.36E-03	IL1B,JUN,SREBF2,TNFAIP3	 
+SPP1	 	cytokine	 	0.318	bias	4.44E-03	DHCR7,FN1,GPX4,JUN,PLAU,VIM	49 (5)
+FOXQ1	 	transcription regulator	 	 	 	4.52E-03	FN1,VIM	 
+ZNF598	-0.187	enzyme	 	 	 	4.52E-03	IFIT2,RSAD2	 
+miR-96-5p (and other miRNAs w/seed UUGGCAC)	 	mature microRNA	 	 	 	4.52E-03	FN1,SERPINE2	 
+CGAS	0.643	enzyme	 	 	 	4.63E-03	IFIT2,IL1B,RSAD2	 
+FGF7	 	growth factor	 	 	 	4.63E-03	APRT,HPRT1,SCD	 
+SAFB	-0.232	other	 	-1.400	bias	5.33E-03	FNTA,JUN,PSMB9,RBM8A,S100A8	 
+SMARCA4	0.089	transcription regulator	Inhibited	-2.840	bias	5.36E-03	ABRACL,ATG9A,CFP,CLDND1,CP,FN1,GSTO1,GSTP1,ICAM1,IL1B,JUN,LPXN,MTRES1,PSMB9,SERPINB8,SERPINE2,TPM1,TREM2,VIM	 
+IRF2	0.209	transcription regulator	Inhibited	-2.000	bias	5.45E-03	NAMPT,PSMB9,PSME1,PTGR1,TPM1,UBE2L6	 
+GAPDH	-0.488	enzyme	 	0.000	bias	5.48E-03	ENO1,FCER1G,IFIT2,UBE2L6	 
+LDL	 	complex	Inhibited	-2.203	bias	5.79E-03	FABP4,IL1B,IRAK4,NAMPT,SREBF2	 
+ADIPOQ	 	other	 	-1.987	 	6.10E-03	FN1,ICAM1,TNFAIP3,TRAF1	19 (3)
+METTL3	0.262	enzyme	 	 	 	6.53E-03	ICAM1,IL1B,SERPINE2	 
+PDGF BB	 	complex	 	-0.316	bias	6.60E-03	DAB2,IL1B,JUN,NAMPT,PLAU,TNFAIP3	 
+LINC00842	 	other	 	 	 	6.68E-03	FN1,VIM	 
+DOHH	 	enzyme	 	 	 	6.68E-03	NME1,PARK7	 
+ITGA5	-0.166	transmembrane receptor	 	 	 	6.68E-03	IL1B,JUN	 
+SLC7A11-AS1	 	other	 	 	 	6.68E-03	GCLM,JUN	 
+TP53RK	-0.287	kinase	 	 	 	6.68E-03	CDKN2C,PSMB7	 
+PTBP3	0.104	other	 	 	 	6.68E-03	FN1,VIM	 
+MAPK7	-1.149	kinase	 	 	 	6.68E-03	JUN,VIM	 
+SF1	0.311	transcription regulator	 	 	 	6.68E-03	FN1,ICAM1	 
+MEF2D	0.386	transcription regulator	 	 	 	6.68E-03	FN1,VIM	 
+TRAP1	-0.136	enzyme	Activated	2.000	bias	7.49E-03	BCL2L13,C1QBP,SOD1,TXN2	 
+ATM	0.160	kinase	 	-0.936	bias	7.49E-03	ADH5,FN1,TGM2,TNFAIP3	 
+FUS-DDIT3	 	fusion gene/product	 	-1.000	bias	7.49E-03	FN1,IL1B,NAMPT,VIM	 
+ESR1	 	ligand-dependent nuclear receptor	 	0.333	 	8.76E-03	ANO10,ARPC5L,CP,CRKL,DR1,EIF5A,ENO1,FKBP4,JUN,PDCD5,RSAD2,SAMD9,TNFAIP3,TPM1,VAV3,VIM	 
+C5	 	cytokine	 	 	 	8.84E-03	FN1,ICAM1,IL1B	48 (5)
+MET	 	kinase	 	-0.958	bias	9.07E-03	AKT1,FN1,IL1B,VIM	 
+KLF17	 	transcription regulator	 	 	 	9.21E-03	FN1,VIM	 
+LOXL2	 	enzyme	 	 	 	9.21E-03	FN1,VIM	 
+ENO1	-0.824	enzyme	 	 	 	9.21E-03	ENO1,VIM	 
+PGR	 	ligand-dependent nuclear receptor	 	-0.990	bias	1.10E-02	FN1,GSTM3,ICAM1,IFIT2,PDLIM1,PLAU,RSAD2,S100A8,SERPINB8	 
+TLR7	 	transmembrane receptor	 	-1.664	bias	1.11E-02	ICAM1,IL1B,IRAK4,MYD88,NFKB1,PLAU	 
+NFE2L2	 	transcription regulator	Inhibited	-2.215	bias	1.11E-02	GCLM,PRDX1,PSAT1,PSMD4,SOD1	 
+BRD4	-0.049	kinase	 	-1.605	bias	1.12E-02	FN1,ICAM1,IRF8,MYD88,NME1,PLAU,SORD,TTC27	 
+JAK	 	group	 	 	 	1.16E-02	IFIT2,RSAD2,VIM	 
+ILF3	-0.260	transcription regulator	 	1.671	bias	1.17E-02	DHCR7,FABP5,IL1B,PLAU,SCD,TRAF1	 
+MYB	 	transcription regulator	 	 	 	1.18E-02	FN1,JUN,NFKB1,VIM	 
+AREG	 	growth factor	 	0.243	 	1.19E-02	IFIT2,JAK1,KIF20A,PLAU,SAE1	 
+LAMTOR5	 	other	 	 	 	1.21E-02	EIF4E,S100A4	 
+HMMR	0.861	transmembrane receptor	 	 	 	1.21E-02	FN1,VIM	 
+LASP1	-0.565	transporter	 	 	 	1.21E-02	S100A4,VIM	 
+HSF2	 	transcription regulator	 	 	 	1.21E-02	IL1B,TXN	 
+YAP/TAZ	 	group	 	 	 	1.21E-02	IL1B,PSAT1	 
+let-7	 	microRNA	 	1.941	bias	1.23E-02	EIF4A1,FN1,MYD88,NFKB1,PA2G4,SNRPC,VIM	 
+NFKB1	-0.611	transcription regulator	 	-0.896	bias	1.29E-02	FN1,FSCN1,IL1B,NAMPT,NFKB1,PLAU,PTPN6	 
+IL1A	 	cytokine	 	-1.474	bias	1.30E-02	ICAM1,IL1B,JUN,PLAU,S100A9,TNFAIP3	 
+TGM2	-0.808	enzyme	 	0.000	bias	1.32E-02	CDK6,CFP,EHD1,FCER1G,IFIT2,IL1B,LSP1,PAK1,S100A8,TTC27	 
+JUN	0.756	transcription regulator	 	-0.133	bias	1.36E-02	FN1,GSTP1,ICAM1,IL1B,JUN,NAMPT,PEA15,VAV3,VIM	 
+SOCS1	 	other	 	0.152	bias	1.39E-02	ICAM1,IFIT2,RSAD2,TGM2	 
+FOS	 	transcription regulator	 	-1.067	bias	1.44E-02	FN1,GSTP1,ICAM1,IL1B,NAMPT,VAV3	 
+RNF138	 	enzyme	 	 	 	1.47E-02	ICAM1,NAMPT,NFKB1	 
+SAFB2	-0.290	other	 	 	 	1.47E-02	JUN,PSMB9,RBM8A	 
+IRF3	 	transcription regulator	 	1.103	bias	1.51E-02	FN1,IFIT2,RSAD2,VIM	 
+RC3H1	 	enzyme	 	0.000	bias	1.51E-02	ENO1,IFIT2,RSAD2,TNFAIP3	 
+STK17A	 	kinase	 	 	 	1.53E-02	ATOX1,GSTO1	 
+KDM6B	 	enzyme	 	 	 	1.53E-02	FN1,VIM	 
+FZD8	 	G-protein coupled receptor	 	 	 	1.53E-02	FN1,VIM	 
+MCAM	 	other	 	 	 	1.53E-02	FN1,VIM	 
+IFNA1/IFNA13	 	cytokine	 	 	 	1.53E-02	IFIT2,RSAD2	 
+ZEB1	 	transcription regulator	 	0.192	 	1.63E-02	EHD1,FN1,PLAU,VIM	 
+Fcer1	 	complex	 	 	 	1.65E-02	IFIT2,IL1B,NFKB1	 
+MASTL	 	kinase	Inhibited	-2.000	bias	1.75E-02	CDK6,KYNU,PACSIN2,TPM4	 
+MAPK1	-0.378	kinase	 	-0.426	 	1.78E-02	ACO1,EHD1,FN1,IFIT2,NMI,PARP12,PSMB9,UBE2L6,VIM	 
+PELP1	0.036	other	 	 	 	1.81E-02	DAB2,IL1B,KYNU,LCP1,PSAT1,S100A9,TGM2	 
+TWIST1	 	transcription regulator	 	-0.900	bias	1.88E-02	AKT2,FN1,S100A4,VIM	 
+GPX8	 	enzyme	 	 	 	1.89E-02	FN1,IL1B	 
+SCAP	 	other	 	 	 	1.89E-02	SCD,SREBF2	 
+DEF6	-0.340	other	 	 	 	1.89E-02	FN1,VIM	 
+LINC01234	 	other	 	 	 	1.89E-02	CBFB,VAV3	 
+RLIM	 	enzyme	 	 	 	1.89E-02	FN1,VIM	 
+miR-7a-5p (and other miRNAs w/seed GGAAGAC)	 	mature microRNA	 	 	 	1.89E-02	PAK1,VIM	 
+MFAP4	 	other	 	 	 	1.89E-02	FN1,IL1B	 
+FOXC2	 	transcription regulator	 	 	 	1.89E-02	FN1,VIM	 
+CHRNA3	 	transmembrane receptor	 	 	 	1.89E-02	JAK1,NFKB1	 
+IFNL1	 	cytokine	 	0.588	bias	1.91E-02	IFIT2,PSMB9,RSAD2,SAMD9,UBE2L6	 
+PAX3-FOXO1	 	fusion gene/product	 	0.000	 	2.01E-02	AKR1B1,CAP2,DBI,EEF2,QDPR,TPM3	 
+S100A6	-0.243	transporter	 	 	 	2.03E-02	PPP3CB,TNFAIP3,TPM4	 
+ATG7	-0.084	enzyme	 	 	 	2.03E-02	IL1B,PRKAR1A,S100A4	 
+ASPSCR1-TFE3	 	fusion gene/product	Inhibited	-2.449	bias	2.10E-02	ATP6V1D,CAST,EPS15L1,GPNMB,PACSIN2,PEPD	 
+IL5	 	cytokine	Inhibited	-2.000	bias	2.16E-02	CDC123,GCLM,NACA,TPM4	 
+Abl1/2	 	group	 	 	 	2.17E-02	NME1	 
+Erm	 	group	 	 	 	2.17E-02	ICAM1	 
+IRAK1/4	 	group	 	 	 	2.17E-02	IL1B	 
+USP49	 	peptidase	 	 	 	2.17E-02	FKBP4	 
+PNPLA2	0.392	enzyme	 	 	 	2.17E-02	ICAM1	 
+DNAJC24	 	other	 	 	 	2.17E-02	EEF2	 
+BPI	 	transporter	 	 	 	2.17E-02	ICAM1	 
+CYBC1	 	other	 	 	 	2.17E-02	IL1B	 
+TUSC7	 	other	 	 	 	2.17E-02	CDK6	 
+HLA-DR	 	complex	 	 	 	2.17E-02	IL1B	 
+MYADM	-0.110	other	 	 	 	2.17E-02	ICAM1	 
+HMGXB4	0.141	other	 	 	 	2.17E-02	ICAM1	 
+CLASP2	0.118	other	 	 	 	2.17E-02	ICAM1	 
+DPH2	 	enzyme	 	 	 	2.17E-02	EEF2	 
+Kallikrein	 	group	 	 	 	2.17E-02	ICAM1	 
+Ku	 	complex	 	 	 	2.17E-02	ADH5	 
+FAF1	-0.332	other	 	 	 	2.17E-02	VIM	 
+CLDN1	 	other	 	 	 	2.17E-02	VIM	 
+MED7	 	transcription regulator	 	 	 	2.17E-02	TNFAIP3	 
+SLC52A1	 	transporter	 	 	 	2.17E-02	ICAM1	 
+SLC20A1	 	transporter	 	 	 	2.17E-02	AKT1	 
+ARIH2	 	enzyme	 	 	 	2.17E-02	IL1B	 
+PPP2R5E	-0.182	phosphatase	 	 	 	2.17E-02	FN1	 
+AQUAPORIN	 	group	 	 	 	2.17E-02	IL1B	 
+miR-211-3p (miRNAs w/seed CAGGGAC)	 	mature microRNA	 	 	 	2.17E-02	CDK6	 
+FOXD1	 	transcription regulator	 	 	 	2.17E-02	CSNK1A1	 
+CALM1 (includes others)	 	other	 	 	 	2.17E-02	TNFAIP3	 
+COL5A1	 	other	 	 	 	2.17E-02	FN1	 
+PSAP	-0.444	other	 	 	 	2.17E-02	GBA	 
+RYK	 	kinase	 	 	 	2.17E-02	FN1	 
+PLPP3	 	phosphatase	 	 	 	2.17E-02	FN1	 
+NLRP3	-0.060	other	 	 	 	2.17E-02	IL1B	 
+HELZ2	-0.047	transcription regulator	 	 	 	2.17E-02	DR1	 
+MED21	 	transcription regulator	 	 	 	2.17E-02	TNFAIP3	 
+CLC	 	enzyme	 	 	 	2.17E-02	IL1B	 
+RSL1D1	0.067	other	 	 	 	2.17E-02	PLAU	 
+USP27X	 	peptidase	 	 	 	2.17E-02	CGAS	 
+CDH5	 	other	 	 	 	2.17E-02	ICAM1	 
+AIM2	 	other	 	 	 	2.17E-02	IL1B	 
+DPH1	 	other	 	 	 	2.17E-02	EEF2	 
+GAB1	 	other	 	 	 	2.17E-02	PTPN11	 
+COP1	 	enzyme	 	 	 	2.17E-02	ICAM1	 
+GSTT1	 	enzyme	 	 	 	2.17E-02	GSTM3	 
+RANBP2	-0.203	enzyme	 	 	 	2.17E-02	FN1	 
+NLRP1	 	enzyme	 	 	 	2.17E-02	IL1B	 
+CHUK	 	kinase	 	 	 	2.24E-02	ICAM1,IL1B,PLAU	 
+mir-17	 	microRNA	 	 	 	2.24E-02	AKT1,DAB2,TNFAIP3	 
+Lymphotoxin	 	complex	 	 	 	2.28E-02	ICAM1,IL1B	 
+IDH2	-0.086	enzyme	 	 	 	2.28E-02	FN1,VIM	 
+RUNX3	 	transcription regulator	 	 	 	2.28E-02	AKT1,IL1B	 
+PSME3	-0.439	peptidase	 	 	 	2.28E-02	ENO1,PGM1	 
+ZNF148	-0.512	transcription regulator	 	 	 	2.28E-02	FN1,VIM	 
+miR-141-3p (and other miRNAs w/seed AACACUG)	 	mature microRNA	 	 	 	2.28E-02	CDK6,VIM	 
+miR-200b-3p (and other miRNAs w/seed AAUACUG)	 	mature microRNA	 	 	 	2.28E-02	MARCKS,VIM	 
+GPI	 	enzyme	 	 	 	2.28E-02	FN1,VIM	 
+COPA	-0.197	transporter	 	 	 	2.28E-02	IL1B,RSAD2	 
+DDX17	0.046	enzyme	 	 	 	2.28E-02	JUN,S100A4	 
+ECM1	0.250	transporter	 	 	 	2.28E-02	S100A4,VIM	 
+CD44	0.113	other	 	 	 	2.37E-02	FN1,IL1B,JUN,PLAU,VIM	 
+PTGES	 	enzyme	 	 	 	2.45E-02	PPA1,TRAF1,VIM	 
+IRGM	 	enzyme	 	-1.067	bias	2.47E-02	CGAS,IFIT2,RSAD2,UBE2L6	 
+miR-122-5p (miRNAs w/seed GGAGUGU)	 	mature microRNA	Activated	2.000	bias	2.63E-02	AACS,PSME1,TPD52L2,VIM	 
+CSF1	 	cytokine	 	 	 	2.68E-02	FN1,IL1B,TNFAIP3	 
+HCAR2	 	G-protein coupled receptor	 	 	 	2.69E-02	KIF20A,NMI	 
+SNHG11	 	other	 	 	 	2.69E-02	ENO1,VIM	 
+SPOP	 	other	 	 	 	2.69E-02	DHCR7,MVD	 
+MMP9	-0.267	peptidase	 	 	 	2.69E-02	ICAM1,SERPINE2	 
+SERPINE1	 	other	 	 	 	2.69E-02	FN1,VIM	 
+S100A9	-1.567	other	 	 	 	2.69E-02	IL1B,S100A9	 
+CLCA2	 	ion channel	 	 	 	2.69E-02	FN1,VIM	 
+HSPA9	-0.004	other	 	 	 	2.69E-02	FN1,VIM	 
+ACTN4	-0.320	transcription regulator	 	 	 	2.69E-02	IL1B,PDLIM1	 
+RNF181	 	enzyme	 	 	 	2.92E-02	ARF6,ARL3,HDDC2	 
+ERBB3	 	kinase	 	 	 	2.92E-02	CDKN2C,FN1,TGM2	 
+IL32	 	cytokine	 	 	 	2.92E-02	ICAM1,IL1B,VIM	 
+CNOT7	-0.397	transcription regulator	 	 	 	2.92E-02	CSTA,PARP12,UBE2L6	 
+TAL1	 	transcription regulator	 	0.408	 	2.96E-02	CDK6,ICAM1,JUN,KIF20A,MARCKS,MVD,NFKB1,TNFAIP3,YARS1	 
+PFKFB3	 	kinase	 	 	 	3.14E-02	ICAM1,IL1B	 
+PLAUR	0.164	transmembrane receptor	 	 	 	3.14E-02	PLAU,VIM	 
+RACK1	-0.587	enzyme	 	 	 	3.14E-02	IFIT2,RSAD2	 
+APOA1	-1.119	transporter	 	 	 	3.14E-02	APOA1,IL1B	 
+ITGB1	-0.057	transmembrane receptor	 	 	 	3.18E-02	JUN,PLAU,VIM	 
+HEIH	 	other	 	 	 	3.18E-02	AKT1,JUN,VIM	 
+WT1	 	transcription regulator	 	0.970	 	3.31E-02	APRT,CIRBP,IL1B,IRF8,MAPRE2,NME1	 
+PTGS2	 	enzyme	 	 	 	3.34E-02	ICAM1,IL1B,PPA1,TRAF1	 
+GATA4	 	transcription regulator	 	-0.927	bias	3.53E-02	ACTN2,IRF8,S100A4,TPM1	 
+CSF2	 	cytokine	Inhibited	-2.433	bias	3.56E-02	CDC123,GCLM,ICAM1,IL1B,NACA,TPM4	 
+ETV6-RUNX1	 	fusion gene/product	Activated	2.828	bias	3.58E-02	ARHGAP18,BID,ICAM1,MAP2K1,PAK1,S100A4,SWAP70,TNFAIP8L2,TPM1	 
+TIFA	 	other	 	 	 	3.61E-02	ICAM1,TNFAIP3	 
+TGFA	 	growth factor	 	 	 	3.61E-02	AKT1,VIM	 
+PIK3R1	-0.208	kinase	 	 	 	3.61E-02	ICAM1,PLAU	 
+PSMD10	 	transcription regulator	 	 	 	3.61E-02	AKT1,ICAM1	 
+TLR1	 	transmembrane receptor	 	 	 	3.61E-02	IL1B,TNFAIP3	 
+CDK5	-0.543	kinase	 	 	 	3.61E-02	JUN,TNFAIP3	 
+ILK	-0.093	kinase	 	 	 	3.61E-02	FN1,IL1B	 
+CLOCK	 	transcription regulator	 	0.000	 	3.83E-02	CBFB,CTPS2,DR1,GTF2E1,OXSR1,SCD	 
+TP53	 	transcription regulator	 	-1.468	 	3.85E-02	ACO1,AK1,AKT1,BID,DHCR7,ENSA,FBXO22,FN1,IL1B,IREB2,MAP2K1,MVD,NME1,PPP4C,PTPN11,PTPN6,PYCARD,S100A4,TAGLN2,TANK,TMSB10/TMSB4X,TRAF1,XPO1	 
+MACROH2A1	0.007	other	 	 	 	3.93E-02	CDKN2C,FGD3,FN1,PLAU	 
+IgG	 	complex	 	0.774	bias	3.94E-02	CYP27A1,DHCR7,FABP5,IL1B,PEA15,PTPN6,TNFAIP3	 
+SMAD4	 	transcription regulator	 	 	 	3.97E-02	CAB39,FSCN1,MAPK7,NAMPT,SAE1,SERPINE2	 
+IDH1	-0.518	enzyme	 	 	 	4.11E-02	FN1,VIM	 
+HOXD10	 	transcription regulator	 	 	 	4.11E-02	ICAM1,NME1	 
+mir-9	 	microRNA	 	 	 	4.11E-02	JAK1,NFKB1	 
+NFKBIZ	 	transcription regulator	 	 	 	4.11E-02	S100A8,S100A9	 
+NEUROG1	 	transcription regulator	 	0.000	 	4.14E-02	FN1,LCP1,PPIC,S100A4	 
+HAND2	 	transcription regulator	 	 	 	4.29E-02	ACTN2,S100A4,TPM1	 
+SHC1	-0.445	other	 	 	 	4.29E-02	FLI1,GSTP1,TXN	 
+IKBKB	-0.259	kinase	 	 	 	4.29E-02	FSCN1,ICAM1,IL1B	 
+PDGF-AA	 	complex	 	 	 	4.30E-02	VIM	 
+MIB2	 	transcription regulator	 	 	 	4.30E-02	TNFAIP3	 
+DGKE	 	kinase	 	 	 	4.30E-02	ICAM1	 
+TRIM13	 	enzyme	 	 	 	4.30E-02	IFIT2	 
+RNF187	 	enzyme	 	 	 	4.30E-02	JUN	 
+SMPD3	 	enzyme	 	 	 	4.30E-02	ICAM1	 
+RHOBTB2	 	enzyme	 	 	 	4.30E-02	MSI2	 
+POPDC2	 	other	 	 	 	4.30E-02	IL1B	 
+TRIM66	 	transcription regulator	 	 	 	4.30E-02	IFIT2	 
+TRIM58	 	enzyme	 	 	 	4.30E-02	IFIT2	 
+NFX1	 	transcription regulator	 	 	 	4.30E-02	NFKB1	 
+SETX	0.137	enzyme	 	 	 	4.30E-02	ENSA	 
+TRIM32	 	transcription regulator	 	 	 	4.30E-02	IFIT2	 
+TRIM36	 	enzyme	 	 	 	4.30E-02	IFIT2	 
+MAP3K21	 	kinase	 	 	 	4.30E-02	VIM	 
+GRB2	-0.415	other	 	 	 	4.30E-02	PTPN11	 
+CTSD	-0.441	peptidase	 	 	 	4.30E-02	TXN	 
+DAPK1	 	kinase	 	 	 	4.30E-02	IL1B	 
+CLIP1	0.449	other	 	 	 	4.30E-02	ICAM1	 
+SP100	-0.182	transcription regulator	 	 	 	4.30E-02	PLAU	 
+DLX2	 	transcription regulator	 	 	 	4.30E-02	TELO2	 
+LAMA3	 	other	 	 	 	4.30E-02	IL1B	 
+CCL18	 	cytokine	 	 	 	4.30E-02	S100A4	 
+miR-133a-3p (and other miRNAs w/seed UUGGUCC)	 	mature microRNA	 	 	 	4.30E-02	FSCN1	 
+mir-133	 	microRNA	 	 	 	4.30E-02	FSCN1	 
+miR-142-5p (and other miRNAs w/seed AUAAAGU)	 	mature microRNA	 	 	 	4.30E-02	VIM	 
+mir-374	 	microRNA	 	 	 	4.30E-02	AKT1	 
+KISS1	 	other	 	 	 	4.30E-02	GSTP1	 
+TRIM9	 	enzyme	 	 	 	4.30E-02	IFIT2	 
+MIR5590	 	microRNA	 	 	 	4.30E-02	VIM	 
+PDE4A	 	enzyme	 	 	 	4.30E-02	FN1	 
+MAPKAPK5	 	kinase	 	 	 	4.30E-02	TNFAIP3	 
+ATG4B	 	peptidase	 	 	 	4.30E-02	GABARAP	 
+MID2	 	other	 	 	 	4.30E-02	IFIT2	 
+TRIM8	 	enzyme	 	 	 	4.30E-02	IFIT2	 
+NME3	0.131	kinase	 	 	 	4.30E-02	VIM	 
+RAMP3	 	G-protein coupled receptor	 	 	 	4.30E-02	VIM	 
+CCNE1	 	transcription regulator	 	 	 	4.30E-02	AKT2	 
+MED6	 	transcription regulator	 	 	 	4.30E-02	IFIT2	 
+PCYT1A	-0.268	enzyme	 	 	 	4.30E-02	SCD	 
+PODXL	 	kinase	 	 	 	4.30E-02	VIM	 
+TIGAR	 	enzyme	 	 	 	4.30E-02	TNFAIP3	 
+RPS4Y1	-0.197	other	 	 	 	4.30E-02	VIM	 
+TDGF1	 	growth factor	 	 	 	4.30E-02	JAK1	 
+ERG	 	transcription regulator	 	-0.600	bias	4.32E-02	EPB41L3,PLAU,PRKCI,PTPN11,RSU1,SREBF2,VIM	 
+IGF1	 	growth factor	 	0.903	bias	4.36E-02	FN1,PLAU,PSMB9,VIM	 
+CDKN2A	 	transcription regulator	 	0.000	bias	4.36E-02	CDKN2C,JUN,TPM1,VIM	 
+DDX5	-0.130	enzyme	 	-1.000	bias	4.36E-02	COX7A2,JUN,MDH1,S100A4	 
+CCND1	 	transcription regulator	 	0.447	 	4.61E-02	CDK6,CDKN2C,ENO1,ERBIN,KIF20A,MARCKS,NIBAN2,SPC25,TRIP13	 
+Tgf beta	 	group	 	 	 	4.63E-02	IL1B,JAK1	 
+DPH5	-0.437	enzyme	 	 	 	4.63E-02	EEF2,IL1B	 
+MAVS	-0.023	other	 	 	 	4.63E-02	IL1B,RSAD2	 
+TRAF3	 	enzyme	 	 	 	4.63E-02	IL1B,TNFAIP3	 
+PPP2R5C	 	other	 	 	 	4.63E-02	NFKB1,TNFAIP3	 
+ZBTB7A	0.056	transcription regulator	 	 	 	4.63E-02	ADH5,BID	 
+PAX5	 	transcription regulator	 	 	 	4.63E-02	FN1,VIM	 
+IFIH1	-0.244	enzyme	 	 	 	4.63E-02	IL1B,RSAD2	 
+TFAP2A	 	transcription regulator	 	 	 	4.81E-02	GLO1,PLAU,TPM1,TPM3	 
+SATB1	-0.314	transcription regulator	 	-0.625	 	4.84E-02	ARF5,GLRX,IRF8,PTGES3,UBE2L6	 
+TFRC	-0.298	transporter	 	 	 	4.92E-02	JUN,PLD4,SERPINB8	 
+miR-21-5p (and other miRNAs w/seed AGCUUAU)	 	mature microRNA	 	 	 	4.92E-02	ARF4,CDK6,IL1B	 
+TBX5	 	transcription regulator	 	 	 	4.92E-02	ACTN2,S100A4,TPM1	 
+IL1B	-1.709	cytokine	 	-1.935	 	5.41E-02	AKR1B1,DBI,FABP5,ICAM1,IL1B,LCP1,NFKB1,NMI,RSAD2,TNFAIP3	 

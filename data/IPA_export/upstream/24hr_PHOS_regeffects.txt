@@ -1,0 +1,5 @@
+© 2000-2021 QIAGEN. All rights reserved.
+
+ID	Consistency Score	Node Total	Regulator Total	Regulators	Target Total	Target Molecules in Dataset	Disease & Function Total	Diseases & Functions	Known Regulator-Disease/Function Relationship
+1	4.919	9	1	PI3K (complex)	5	PRKCD,PTK2B,PXN,RPS6,RPTOR	3	Invasion of tumor cell lines,Migration of tumor cell lines,Replication of virus	100% (3/3)
+2	-6.928	14	1	F2	12	ARHGEF1,HCLS1,HSPB1,INPP5D,PLEC,PRKAA1,PRKCD,PTK2B,PTPN12,SH3KBP1,VASP,ZYX	1	Migration of cells	100% (1/1)
