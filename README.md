@@ -1,4 +1,4 @@
-# MRSA-macrophage
+# CUL4B-macrophage
 
 In support of multi-omics analyses of:
 
