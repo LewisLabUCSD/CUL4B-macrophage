@@ -52,17 +52,11 @@ CUL4B-macrophage/
 
 ---
 
-## 🛠️ Dependencies and Installation
+## 🛠️ Dependencies and Software
 
 ### Software Environment
 
-This analysis was performed using **R**, **Python**, and associated packages listed in `environment.yml`.\
-Install via:
-
-```bash
-conda env create -f code/environment.yml
-conda activate cul4b_env
-```
+This analysis was performed using **R**, **Python**, and the following software/tools
 
 ### R Packages (key ones)
 
@@ -70,7 +64,8 @@ conda activate cul4b_env
 - `fgsea`
 - `ggplot2`
 - `clusterProfiler`
-- `REVIGO` dependencies
+- `REVIGO`
+- `ComplexUpset`
 
 ### Python Packages (notebooks)
 
@@ -78,6 +73,19 @@ conda activate cul4b_env
 - `numpy`
 - `matplotlib`
 - `seaborn`
+- `scipy`
+- `sklearn`
+- `statsmodels`
+- `venn`
+- `UpSet`
+
+### Software and Tools
+- QIAGEN Inc. Ingenuity Pathway Analysis suite (IPA)
+- Metascape
+- REVIGO
+- Cytoscape
+- CORAL
+- 
 
 ---
 
@@ -86,38 +94,32 @@ conda activate cul4b_env
 ### Analysis Workflow
 
 1. **Transcriptomic Analysis:**
+   - Conversion script from htseq to counts: `code/transcriptome__htseq_to_countMatrix.R`
+   - Raw counts table is deposited under GSE288437
+   - DESeq2 differential RNA expression results DESeq2 are in `data/DEG_RNA/`.
 
-   - Differential RNA expression results are stored in `data/DEG_RNA/`.
-   - Conversion script:\
-     `code/pkg/transcriptome__htseq_to_countMatrix.R`
-
-2. **Proteomics & Phosphoproteomics Processing:**
+2. **Proteomics & Phosphoproteomics Processing and Cluster Enrichment:**
 
    - Processed datasets in `data/uniprot/` and `.obj` files.
-   - Summary notebooks in `code/pkg/0_dysregulated_proteins.ipynb` to `2_kinase.ipynb`.
-
-3. **Pathway & Regulator Inference:**
-
-   - IPA analysis inputs/exports in `data/IPA_export/`.
-   - Regulatory analyses:\
-     `code/pkg/4a_*.ipynb` to `6_UpSet_regulator_multiomic_targets.ipynb`.
-
-4. **Network & Enrichment Visualization:**
-
-   - Cytoscape input files: `results/cytoscape/`
-   - REVIGO treemap generation:\
-     `code/3_REVIGO/RevigoTreeMap_*.R`
-
-5. **Downstream Results:**
-
-   - Figures and results in `results/IPA_downstream_analysis/` and `regulator_pathways/`
+   - `code/0_dysregulated_proteins.ipynb` t-test, ANOVA to identify differentially abundance proteins/phosphoproteins and plot volcano/PCA plots. Outputs are in `results/ttests/`
+   - `code/1_abundance_clustering.ipynb` k-means clustering to define timepoint clusters
+   - 
+3. **IPA Enriched Regulator Processing and Analysis:**
+   - `code/2_kinase.ipynb` downstream analysis and visualization of kinase enrichment results from CORAL (et al.)
+   - `code/3_REVIGO/*.R` R scripts to generate TreeMap visualizations from REVIGO enrichment
+   - `code/4a_IPA_identify_regulators.ipynb` identify the signifcantly enriched regulators from IPA across all timepoint and compile the unique/shared target genes per timepoint. Outputs are in `results/IPA_downstream_analysis/upstream_causal/`
+   - `code/4b_IPA_regulators_shared_proteins.ipynb` compile target differentially expressed/abundance genes/proteins for 7 causal network regulators (AREG, ATM, CUL4B, MYC, Pkg, ROCK, Rac) for each timepoint from proteomics data and for each significant z-score derived from IPA. Output file: `results/IPA_downstream_analysis/PROT_sharedreg.xlsx`
+   - `code/4c_IPA_regulator_multiomics_data.ipynb` compile all multi-omics data for differentially abundant protein targets for IPA enriched and shared regulators. Outputs are in `results/IPA_downstream_analysis/regulator_pathways/{}_REGULATOR_PATHWAYS.xlsx`
+   - `code/5a_IPA_regulator_network_cytoscape_input.ipynb` compile enriched gene/protein targets for each regulator as inputs for for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
+   - `code/5b_CUL4B_network_cytoscape_input.ipynb` compiled enriched gene/protein targets for CUL4B as input for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
+   - `code/6_UpSet_regulator_multiomics_targets.ipynb` compile the differentially expressed genes, proteins, phosphoproteins targeted by IPA enriched regulators to generate UpSet plot
 
 ---
 
 ## 📊 Results & Documentation
 
 - **Processed differential expression results** (RNA, protein, phosphoprotein)
-- **IPA upstream regulator predictions**
+- **IPA enriched upstream regulator predictions**
 - **Multi-omics regulatory network inference**
 - **REVIGO semantic similarity treemaps**
 - **Cytoscape-formatted networks**
@@ -139,19 +141,11 @@ Each Jupyter notebook and R script contains embedded usage notes and data source
   Full code for data processing, statistical analysis, visualization, and figure generation is included.
 
 - **Reproducibility:**\
-  All scripts and notebooks are structured for re-execution given the provided data and environment file.
+  All scripts and notebooks are structured for re-execution given the provided data and software dependencies.
 
 ---
 
 ## 📝 License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-## 📧 Contact
-
-For questions or collaboration inquiries:\
-**Lewis Lab, UC San Diego**\
-[Lab Website](https://lewislab.ucsd.edu)
 
