@@ -111,7 +111,7 @@ This analysis was performed using **R**, **Python**, and the following software/
    - `code/4c_IPA_regulator_multiomics_data.ipynb` compile all multi-omics data for differentially abundant protein targets for IPA enriched and shared regulators. Outputs are in `results/IPA_downstream_analysis/regulator_pathways/{}_REGULATOR_PATHWAYS.xlsx`
    - `code/5a_IPA_regulator_network_cytoscape_input.ipynb` compile enriched gene/protein targets for each regulator as inputs for for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
    - `code/5b_CUL4B_network_cytoscape_input.ipynb` compiled enriched gene/protein targets for CUL4B as input for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
-   - `code/6_UpSet_regulator_multiomics_targets.ipynb` compile the differentially expressed genes, proteins targeted by IPA enriched regulators to generate UpSet plot
+   - `code/6_UpsetR_proteomics_transcriptomics.ipynb` compile the differentially expressed genes, proteins targeted by IPA enriched regulators to generate UpSet plot
 
 ---
 
