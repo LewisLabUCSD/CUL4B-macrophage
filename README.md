@@ -134,7 +134,7 @@ Each Jupyter notebook and R script contains embedded usage notes and data source
 
 - **Data availability:**\
   Processed datasets are provided in `data/`. Raw data referenced in the corresponding manuscript and Zenodo entry:\
-  [https://doi.org/10.5281/zenodo.15054297](https://doi.org/10.5281/zenodo.15054297)
+  [https://doi.org/10.5281/zenodo.15054296]
 
 - **Source code availability:**\
   Full code for data processing, statistical analysis, visualization, and figure generation is included.
