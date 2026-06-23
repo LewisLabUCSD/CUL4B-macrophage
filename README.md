@@ -15,8 +15,7 @@ The repository provides:
 - Processed input and output data files for reproducibility.
 - Enrichment and network inference results.
 - REVIGO visualization scripts for semantic summarization of enrichment analyses.
-
-Also deposited under 10.5281/zenodo.15054297
+- Code and data are also deposited under 10.5281/zenodo.15401096
 ---
 
 ## 📁 Repository Structure
@@ -38,7 +37,7 @@ CUL4B-macrophage/
 │   │   ├── ipa_anno.txt
 │   │   └── upstream/
 │   ├── uniprot/
-│   │   └── phos_uniprot.tsv, prot_uniprot.tsv, *.xlsx
+│   │   └── prot_uniprot.tsv, *.xlsx
 │   └── macro_*                         # Processed dataframes (.obj, .csv)
 │
 ├── results/
@@ -135,7 +134,7 @@ Each Jupyter notebook and R script contains embedded usage notes and data source
 
 - **Data availability:**\
   Processed datasets are provided in `data/`. Raw data referenced in the corresponding manuscript and Zenodo entry:\
-  [https://doi.org/10.5281/zenodo.15054297](https://doi.org/10.5281/zenodo.15054297)
+  [https://doi.org/10.5281/zenodo.15054296]
 
 - **Source code availability:**\
   Full code for data processing, statistical analysis, visualization, and figure generation is included.
