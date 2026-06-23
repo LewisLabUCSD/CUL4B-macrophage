@@ -98,10 +98,10 @@ This analysis was performed using **R**, **Python**, and the following software/
    - Raw counts table is deposited under GSE288437
    - DESeq2 differential RNA expression results DESeq2 are in `data/DEG_RNA/`.
 
-2. **Proteomics & Phosphoproteomics Processing and Cluster Enrichment:**
+2. **Proteomics Processing and Cluster Enrichment:**
 
    - Processed datasets in `data/uniprot/` and `.obj` files.
-   - `code/0_dysregulated_proteins.ipynb` t-test, ANOVA to identify differentially abundance proteins/phosphoproteins and plot volcano/PCA plots. Outputs are in `results/ttests/`
+   - `code/0_dysregulated_proteins.ipynb` t-test, ANOVA to identify differentially abundance proteins and plot volcano/PCA plots. Outputs are in `results/ttests/`
    - `code/1_abundance_clustering.ipynb` k-means clustering to define timepoint clusters
    - 
 3. **IPA Enriched Regulator Processing and Analysis:**
@@ -112,13 +112,13 @@ This analysis was performed using **R**, **Python**, and the following software/
    - `code/4c_IPA_regulator_multiomics_data.ipynb` compile all multi-omics data for differentially abundant protein targets for IPA enriched and shared regulators. Outputs are in `results/IPA_downstream_analysis/regulator_pathways/{}_REGULATOR_PATHWAYS.xlsx`
    - `code/5a_IPA_regulator_network_cytoscape_input.ipynb` compile enriched gene/protein targets for each regulator as inputs for for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
    - `code/5b_CUL4B_network_cytoscape_input.ipynb` compiled enriched gene/protein targets for CUL4B as input for Cytoscape network generation (`results/IPA_downstream_analysis/cytoscape/`)
-   - `code/6_UpSet_regulator_multiomics_targets.ipynb` compile the differentially expressed genes, proteins, phosphoproteins targeted by IPA enriched regulators to generate UpSet plot
+   - `code/6_UpSet_regulator_multiomics_targets.ipynb` compile the differentially expressed genes, proteins targeted by IPA enriched regulators to generate UpSet plot
 
 ---
 
 ## 📊 Results & Documentation
 
-- **Processed differential expression results** (RNA, protein, phosphoprotein)
+- **Processed differential expression results** (RNA, proteins)
 - **IPA enriched upstream regulator predictions**
 - **Multi-omics regulatory network inference**
 - **REVIGO semantic similarity treemaps**
